@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.BissmillahLULUS" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/biru_hinatazaka</item>
+        <item name="colorPrimaryVariant">@color/purple_nogi</item>
+        <item name="colorOnPrimary">@color/ijo_keyaki</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/pink_nogi</item>
+        <item name="colorSecondaryVariant">@color/Hutan</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

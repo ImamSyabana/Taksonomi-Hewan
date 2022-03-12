@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Taksonomi Hewan</string>
+    <string name="animals_name">Nama Hewan</string>
+    <string name="detail_hewan">Keterangan Taksonomi</string>
+    <string name= "profile_name">Muhammad Imam Ariq Sya\'bana</string>
+    <string name= "email_address">imambritish@gmail.com</string>
+    <string name="about_button">ABOUT ME</string>
+</resources>
